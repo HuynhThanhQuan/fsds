@@ -4,3 +4,6 @@
 **/bk
 **/lab-x
 **/catboost_info
+**/.pt_tmp
+**logs
+**/saved_models
